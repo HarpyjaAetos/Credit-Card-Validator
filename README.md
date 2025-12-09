@@ -1,6 +1,6 @@
 # Credit Card Validator (C++)
 
-This is a self-learning project created during my 1st semester.
+This is a self-learning project created during my 1st semester Winter Break.
 The goal was to practice C++ fundamentals like:
 - Loops
 - Functions
